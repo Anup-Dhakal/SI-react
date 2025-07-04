@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.div{
+  text-align :center;
+  padding : 30px;
+  margin :30px;
+}
