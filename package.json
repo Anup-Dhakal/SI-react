@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/Anup-Dhakal/Interest-Calculator",
-  "name": "simple-interest-calculator",
+  "homepage": "https://github.com/Anup-Dhakal/SI-react",
+  "name": "SI-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
